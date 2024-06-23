@@ -123,9 +123,6 @@ st.write('By Sohan Bhattacharjya')
 # set header
 st.header('Please upload a sport image')
 
-#small guide
-st.write("Please Note: This pretrained model is fine-tuned on 107 types of sports categories. This model can have few errors as it is still under development")
-
 # upload file
 file = st.file_uploader('', type=['jpeg', 'jpg', 'png'])
 
