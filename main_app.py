@@ -118,6 +118,7 @@ set_background("background.jpg")
 
 # set title
 st.title('Sports classification')
+st.write('By Sohan Bhattacharjya')
 
 # set header
 st.header('Please upload a sport image')
