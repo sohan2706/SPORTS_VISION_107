@@ -1,0 +1,11 @@
+Steps to run this app locally:
+
+1. Open a code editor and open the terminal in it.
+
+2. Inside the terminal paste the following: git clone https://github.com/sohan2706/SPORTS_VISION_107.git
+
+3. Now type the following in the terminal: cd SPORTS_VISION_107
+
+4. In the terminal now type: streamlit run main_app.py
+
+5. That's it, the app should  open in your browser.
